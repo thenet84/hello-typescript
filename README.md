@@ -1,2 +1,3 @@
-# typescript
-TypeScript in 5 minutes
+# Hello TypeScript
+
+https://www.typescriptlang.org/docs/home.html
